@@ -1,5 +1,4 @@
 <?php
-// Script corrigido - Removida injeção de código remoto
 
 $index_home = __DIR__ . '/index.html';
 
